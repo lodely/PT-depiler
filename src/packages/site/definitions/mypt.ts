@@ -41,7 +41,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P8W",
       downloaded: "120GB",
       ratio: 1.55,
-      seedingBonus: 80000,
       privilege: "Elite User及以上用戶封存賬號后不會被移除。",
     },
     {
@@ -50,7 +49,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P15W",
       downloaded: "300GB",
       ratio: 2.05,
-      seedingBonus: 150000,
       privilege: "得到兩個邀請名額；可以在做種/下載/發布的時候選取匿名型態。",
     },
     {
@@ -59,7 +57,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P25W",
       downloaded: "500GB",
       ratio: 2.55,
-      seedingBonus: 400000,
       privilege: "可以檢視普通日誌。",
     },
     {
@@ -68,7 +65,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P40W",
       downloaded: "750GB",
       ratio: 3.05,
-      seedingBonus: 800000,
       privilege: "得到三個邀請名額；可以檢視其他用戶的評論、帖子曆史。Veteran User及以上用戶會永遠保留賬號。",
     },
     {
@@ -77,7 +73,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P60W",
       downloaded: "1TB",
       ratio: 3.55,
-      seedingBonus: 1400000,
       privilege: "可以更新過期的外部資訊；可以檢視Extreme User論壇。",
     },
     {
@@ -86,7 +81,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P60W",
       downloaded: "1.5TB",
       ratio: 5.05,
-      seedingBonus: 2200000,
       privilege: "得到五個邀請名額。",
     },
     {
@@ -95,7 +89,6 @@ export const siteMetadata: ISiteMetadata = {
       interval: "P100W",
       downloaded: "3TB",
       ratio: 4.55,
-      seedingBonus: 3200000,
       privilege: "得到十個邀請名額。",
     },
   ],
