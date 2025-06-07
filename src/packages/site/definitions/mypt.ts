@@ -77,7 +77,7 @@ export const siteMetadata: ISiteMetadata = {
     },
     {
       id: 7,
-      name: "Ultimate User,
+      name: "Ultimate User",
       interval: "P60W",
       downloaded: "1.5TB",
       ratio: 5.05,
